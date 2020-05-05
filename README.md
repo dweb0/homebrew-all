@@ -1,3 +1,3 @@
 # homebrew-all
 
-Homebrew tap repository for various programs
+Homebrew tap for various programs
